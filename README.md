@@ -17,7 +17,7 @@ FixItNow is a gig economy platform where users can book service providers for va
 1. **Clone the repository** to your local machine using the following command:
 
     ```bash
-    git clone <repository-url>
+    git clone git@github.com:YourUsername/Fix-It-Now-Web-Application.git
     ```
 
 2. **Navigate to the project directory**:
